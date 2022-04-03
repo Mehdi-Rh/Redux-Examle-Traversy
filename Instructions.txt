@@ -1,0 +1,9 @@
+Tuto instruction:
+		Creating project + install dependencies:
+sudo npm i -g create-react-app
+create-react-app reduxexample
+npm i redux react-redux redux-thunk
+
+Shortcut:
+	rcc: class componenet
+	rfc: function component
